@@ -293,7 +293,6 @@ function continueStatement(numero) {
     newArray.push(suma);
   }
   return newArray;
-
 }
 
 
